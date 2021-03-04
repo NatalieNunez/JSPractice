@@ -4,7 +4,7 @@ body {
 
 .timer {
   margin: 25px;
-  border: 6px solid olive;
+  border: 6px solid rgb(60, 131, 121);
   padding: 15px;
   font-size: 32px;
   border-radius: 50%;
@@ -13,5 +13,13 @@ body {
 
 .button {
   text-align: center;
-  padding: 50px;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: rgb(60, 131, 121);
+  color: #ffffff;
+}
+
+.button:hover {
+  background-color: black;
+  color: #ffffff;
 }
