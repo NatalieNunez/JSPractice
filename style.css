@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.timer {
+  margin: 25px;
+  border: 6px solid olive;
+  padding: 15px;
+  font-size: 32px;
+  border-radius: 50%;
+  height: 50px;
+}
+
+.button {
+  text-align: center;
+  padding: 50px;
+}
