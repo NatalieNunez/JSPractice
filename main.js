@@ -1,5 +1,13 @@
 /* let clickStart = document.getElementsByClassName('button.start');
 
 clickStart.addEventListener('click', function (event)) {
-    document.getElementsByClassName('timer').innerHTML = '00:01';
+    document.getElementsByClassName('button['start']').innerHTML = startVar;
 } */
+let startVar = setInterval(myTimer, 1000);
+function myTimer () {
+    
+}
+
+/*
+i need a function that recognizes when start button is clicked and then starts the setInterval method
+*/
