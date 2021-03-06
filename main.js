@@ -5,7 +5,7 @@ clickStart.addEventListener('click', function (event)) {
 } */
 let startVar = setInterval(myTimer, 1000);
 function myTimer () {
-    
+    document.getElementById('')
 }
 
 /*
